@@ -29,7 +29,6 @@
 ##
 ## ⭐ GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Bramadyafiqri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bramadyafiqri&theme=dark&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=bramadyafiqri&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bramadyafiqri&theme=github_dark&hide_progress=true)
 </div>
