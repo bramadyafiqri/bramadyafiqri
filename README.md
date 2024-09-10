@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/followers/bramadyafiqri?label=Follow Me!&style=social" alt=Bramadya Fiqri" /> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KumaaDeveloper/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bramadyafiqri/&title=Profile%20Views)
 
 
 <a href="https://www.instagram.com/">
